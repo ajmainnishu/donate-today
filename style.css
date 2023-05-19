@@ -97,6 +97,7 @@ input::placeholder {
 .donate-plan {
     text-align: center;
     margin-top: 150px;
+    margin-bottom: 170px;
 }
 .donate-plan-flex {
     text-align: left;
@@ -125,3 +126,37 @@ input::placeholder {
     border-radius: 10px;
     padding: 30px;
 }
+
+
+
+
+.donation-survive {
+    width: 80%;
+    margin: 0 auto;
+}
+.donation-survive-half {
+    display: flex;
+    gap: 55px;
+    margin: 70px 0;
+}
+.half-one {
+    width: 45%;
+}
+.donation-survive-half img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.donation-survive-half p {
+    color: gray;
+    text-align: justify;
+}
+.donation-survive-half a {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+
+
