@@ -159,6 +159,22 @@ h2 {
 
 
 
+.join {
+    width: 80%;
+    margin: 150px auto;
+    background-color:rgba(216, 112, 147, 0.1);
+    padding: 30px;
+    border-radius: 15px;
+}
+.join a {
+    background-color: rgba(255, 68, 0, 0.486);
+}
+.join p {
+    text-align: justify;
+}
+
+
+
 
 .updates {
     text-align: center;
@@ -193,7 +209,7 @@ footer {
     margin-top: 150px;
 }
 footer h3 {
-    color: orangered;
+    color:brown;
     margin: 0;
     font-size: 25px;
 }
