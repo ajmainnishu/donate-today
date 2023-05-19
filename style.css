@@ -76,7 +76,7 @@ h2 {
     border: 2px solid orangered;
     background-color: rgba(255, 68, 0, 0.1);
 }
-input {
+.donate-today input {
     border-top: none;
     border-left: none;
     border-right: none;
@@ -86,7 +86,7 @@ input {
     margin-top: 30px;
     margin-bottom: 50px;
 }
-input::placeholder {
+.donate-today input::placeholder {
     text-align: center;
     color: gray;
 }
@@ -160,3 +160,25 @@ input::placeholder {
 
 
 
+.updates {
+    text-align: center;
+}
+.updates-form {
+    background-color:rgba(250, 235, 215, 0.493);
+    width: 60%;
+    margin: 40px auto;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+.updates input {
+    padding: 13px 25px;
+    border: none;
+    background-color: rgba(128, 128, 128, 0.163);
+    border-radius: 5px;
+}
+.updates input::placeholder {
+    color: gray;
+}
+.updates-form a {
+    padding: 10px 30px;
+}
