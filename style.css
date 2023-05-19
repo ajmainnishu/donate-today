@@ -90,3 +90,38 @@ input::placeholder {
     text-align: center;
     color: gray;
 }
+
+
+
+
+.donate-plan {
+    text-align: center;
+    margin-top: 150px;
+}
+.donate-plan-flex {
+    text-align: left;
+    display: flex;
+    width: 80%;
+    margin: 50px auto;
+    justify-content: space-between;
+    gap: 25px;
+}
+.donate-plan-flex  p {
+    text-align: justify;
+    color: gray;
+}
+.donate-plan-flex-box-1 {
+    background-color: rgba(127, 255, 212, 0.2);
+    border-radius: 10px;
+    padding: 30px;
+}
+.donate-plan-flex-box-2 {
+    background-color:rgba(216, 112, 147, 0.1);
+    border-radius: 10px;
+    padding: 30px;
+}
+.donate-plan-flex-box-3 {
+    background-color:rgba(250, 235, 215, 0.493);
+    border-radius: 10px;
+    padding: 30px;
+}
